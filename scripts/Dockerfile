@@ -28,3 +28,7 @@ RUN apk add --no-cache --virtual build-dependencies \
   rm -rf /root/.gem/* && \
   rm -rf /usr/local/bundle/cache/*.gem && \
   rm -rf /usr/lib/ruby/gems/*/cache/*.gem
+
+# Install gitbook
+RUN npm install gitbook-cli -g && \
+  gitbook -V
