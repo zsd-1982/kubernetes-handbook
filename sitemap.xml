@@ -212,6 +212,8 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/faas.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/openfaas-quick-start.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/knative.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/cloud-native-app-standard.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/oam.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/edge-computing.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/ai.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/develop/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
