@@ -2,8 +2,6 @@
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
-.DS_Store
-
 ## Dependency directory
 ## Commenting this out is preferred by some people, see
 ## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
@@ -19,3 +17,8 @@ _book
 
 # Github Pages
 deploy.sh
+.DS_Store
+
+# IDEA
+*.iml
+.idea
