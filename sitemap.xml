@@ -183,6 +183,7 @@
 <url> <loc>https://jimmysong.io/kubernetes-handbook/practice/dashboard-upgrade.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/practice/controller-extended.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/practice/openkruise.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/kubernetes-handbook/practice/in-place-update.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/microservices.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://jimmysong.io/kubernetes-handbook/usecases/service-discovery-in-microservices.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
